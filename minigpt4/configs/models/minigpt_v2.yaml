@@ -11,7 +11,7 @@ model:
   # generation configs
   prompt: ""
 
-  llama_model: "/mnt/share/zhengqing/phi-2"
+  llama_model: "/home/tanya.kaintura/Image-2-structured-data/TinyGPT-V/phi-2"
   lora_r: 64
   lora_alpha: 16
 
