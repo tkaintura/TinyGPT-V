@@ -11,7 +11,7 @@ model:
   # generation configs
   prompt: ""
 
-  llama_model: "/root/autodl-tmp/phi-new"
+  llama_model: "/models/home/image_dataset/image_understanding_model_weights/phi-2"
   lora_r: 64
   lora_alpha: 16
 
