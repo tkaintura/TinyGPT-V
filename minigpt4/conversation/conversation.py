@@ -13,7 +13,11 @@ from typing import List, Tuple, Any
 
 from minigpt4.common.registry import registry
 
+<<<<<<< HEAD
 tokenizer = AutoTokenizer.from_pretrained('/models/home/image_dataset/image_understanding_model_weights/phi-2')
+=======
+tokenizer = AutoTokenizer.from_pretrained('/home/tanya.kaintura/Image-2-structured-data/TinyGPT-V/phi-2')
+>>>>>>> 4387254a50bb25ccabfcdf3b869744b0c1fb1a6c
 
 class SeparatorStyle(Enum):
     """Different separator style."""
