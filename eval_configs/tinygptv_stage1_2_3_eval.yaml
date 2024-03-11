@@ -5,7 +5,7 @@ model:
   bos_token_id: "###"
   low_resource: False
   prompt_template: '###Human: {} ###Assistant: '
-  ckpt: '/home/tanya.kaintura/Image-2-structured-data/TinyGPT-V/model_weights'
+  ckpt: '/models/home/image_dataset/image_understanding_model_weights/tinygpt_weight'
   lora_r: 64
   lora_alpha: 16
 
